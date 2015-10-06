@@ -1,2 +1,2 @@
 # harvard-cs50
-edX course in computer science for which I am pursuing a verified certificate.
+Repository for the files from edX/Harvard's CS50 Introduction to Computer Science course.
